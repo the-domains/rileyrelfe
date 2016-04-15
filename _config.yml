@@ -1,0 +1,28 @@
+name: RileyRelfe
+favicon: null
+layout_spectrum: 0.5414214259944856
+typography_spectrum: 0.7104231675621122
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9981309110298753
+  lightness: 0.35618119151331484
+  saturation: 0.031507236417382956
+  rhythmicContrast: 0.9373608452733606
+purpose: []
